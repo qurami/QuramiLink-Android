@@ -1,6 +1,9 @@
 # QuramiLink 🔗
 
 [ ![Download](https://api.bintray.com/packages/qurami-robot/maven/quramilink/images/download.svg) ](https://bintray.com/qurami-robot/maven/quramilink/_latestVersion)
+[ ![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.qurami.android.link/quramilink/badge.svg?style=flat) ](https://maven-badges.herokuapp.com/maven-central/com.qurami.android.link/quramilink/)
+[ ![License](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat) ](https://github.com/qurami/QuramiLink-Android/blob/master/LICENSE)
+
 
 ## Description
 
